@@ -4,4 +4,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <PropertyGroup>
+    <PackageId>Pure.Serialization.Json</PackageId>
+    <RootNamespace>Pure.Serialization.Json</RootNamespace>
+    <AssemblyName>Pure.Serialization.Json</AssemblyName>
+    <Authors>Dmitry Kurochkin</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/kudima03/Pure.Serialization.Json</PackageProjectUrl>
+  </PropertyGroup>
 </Project>
