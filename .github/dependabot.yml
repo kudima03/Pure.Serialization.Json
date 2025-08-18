@@ -2,8 +2,8 @@ version: 2
 updates:
 - package-ecosystem: nuget
   directories:
-    - "src/"
-    - "src/Tests/"
+    - "src/Pure.Serialization.Json"
+    - "src/Tests/Pure.Serialization.Json.Tests"
   schedule:
     interval: daily
   reviewers:
