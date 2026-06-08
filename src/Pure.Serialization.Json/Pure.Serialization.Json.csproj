@@ -6,6 +6,8 @@
     <IsTrimmable>true</IsTrimmable>
     <EnableTrimAnalyzer>true</EnableTrimAnalyzer>
     <EnableAotAnalyzer>true</EnableAotAnalyzer>
+    <!--<EnablePackageValidation>true</EnablePackageValidation>-->
+    <!--<PackageValidationBaselineVersion>x.x.x</PackageValidationBaselineVersion>-->
   </PropertyGroup>
   <PropertyGroup>
     <PackageId>Pure.Serialization.Json</PackageId>
