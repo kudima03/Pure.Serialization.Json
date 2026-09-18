@@ -16,6 +16,6 @@
       "settings": { "editor.formatOnSave": true }
     }
   },
-  "postCreateCommand": "cd src && dotnet restore && dotnet tool install -g dotnet-stryker && dotnet tool install -g csharpier",
+  "postCreateCommand": "cd src && dotnet restore && dotnet tool restore && dotnet tool install -g csharpier",
   "remoteUser": "vscode"
 }
