@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/Pure.Serialization.Json.Tests/Pure.Serialization.Json.Tests.csproj" />
+  </Folder>
+  <Project Path="Pure.Serialization.Json/Pure.Serialization.Json.csproj" />
+</Solution>
